@@ -5,3 +5,5 @@ hello git!
 helllllllllllll
 fix
 master test
+hot-fix
+hot-fix test
